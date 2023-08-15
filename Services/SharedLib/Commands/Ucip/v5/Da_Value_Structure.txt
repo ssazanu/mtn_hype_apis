@@ -1,0 +1,28 @@
+﻿<value>
+    <struct>
+        <member>
+            <name>dedicatedAccountID</name>
+            <value>
+                <int>$$DA_ID$$</int>
+            </value>
+        </member>
+        <member>
+            <name>dedicatedAccountValueNew</name>
+            <value>
+                <string>$$DA_VALUE$$</string>
+            </value>
+        </member>
+        <member>
+            <name>dedicatedAccountUnitType</name>
+            <value>
+                <int>$$ACCOUNT_UNIT_TYPE$$</int>
+            </value>
+        </member>
+        <member>
+            <name>expiryDate</name>
+            <value>
+                <dateTime.iso8601>$$EXPIRY$$</dateTime.iso8601>
+            </value>
+        </member>
+    </struct>
+</value>

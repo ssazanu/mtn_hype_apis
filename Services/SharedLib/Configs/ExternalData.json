@@ -1,0 +1,10 @@
+[
+  {
+    "CategoryId": "ASSOCIATION_BUNDLES",
+    "ExternalData1": "$$REQUEST_TYPE$$-5060",
+    "ExternalData2": "$$PAYMENT_MODE$$-$$PRODUCT_TYPE$$-$$AMOUNT$$$$_BENEFICIARY$$$$_REFERRAL_CODE$$",
+    "CategoryItemType": "product",
+    "OriginHostName": "ACS",
+    "OriginNodeType": "SME"
+  }
+]

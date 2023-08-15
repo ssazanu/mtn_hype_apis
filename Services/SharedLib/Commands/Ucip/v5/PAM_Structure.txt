@@ -1,0 +1,10 @@
+﻿<member>
+    <name>pamInformationList</name>
+    <value>
+        <array>
+            <data>
+                $$PAM_VALUES_STRUCTURE$$
+            </data>
+        </array>
+    </value>
+</member>

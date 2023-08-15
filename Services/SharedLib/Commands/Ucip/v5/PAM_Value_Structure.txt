@@ -1,0 +1,22 @@
+﻿<value>
+    <struct>
+        <member>
+            <name>pamClassID</name>
+            <value>
+                <i4>$$PAM_CLASS_ID$$</i4>
+            </value>
+        </member>
+        <member>
+            <name>pamServiceID</name>
+            <value>
+                <i4>$$PAM_SERVICE_ID$$</i4>
+            </value>
+        </member>
+        <member>
+            <name>scheduleID</name>
+            <value>
+                <i4>$$PAM_SCHEDULE_ID$$</i4>
+            </value>
+        </member>
+    </struct>
+</value>

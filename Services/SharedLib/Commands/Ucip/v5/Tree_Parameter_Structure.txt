@@ -1,0 +1,20 @@
+﻿<member>
+	<name>treeParameterSetUpdateInformationList</name>
+	<value>
+		<array>
+			<data>
+				<value>
+					<struct>
+						<member>
+							<name>serviceProvider</name>
+							<value>
+								<int>1</int>
+							</value>
+						</member>
+						$$TREE_PARAMETER_MEMBERS$$
+					</struct>
+				</value>
+			</data>
+		</array>
+	</value>
+</member>

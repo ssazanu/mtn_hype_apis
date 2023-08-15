@@ -1,0 +1,56 @@
+﻿POST /Air HTTP/2.0
+Authorization: Basic $$base64Credential$$
+User-Agent: UGw Server/4.0/1.0
+Host: PAG
+Content-Length: $$contentLength$$
+Content-Type: text/xml
+Connection: close
+
+<?xml version="1.0" encoding="utf-8"?>
+<methodCall>
+  <methodName>GetAccumulators</methodName>
+  <params>
+    <param>
+      <value>
+        <struct>
+          <member>
+            <name>originHostName</name>
+            <value>
+              <string>$$originHostName$$</string>
+            </value>
+          </member>
+          <member>
+            <name>originNodeType</name>
+            <value>
+              <string>$$originNodeType$$</string>
+            </value>
+          </member>
+          <member>
+            <name>originTimeStamp</name>
+            <value>
+              <dateTime.iso8601>$$originTimeStamp$$</dateTime.iso8601>
+            </value>
+          </member>
+          <member>
+            <name>originTransactionID</name>
+            <value>
+              <string>$$originTransactionID$$</string>
+            </value>
+          </member>
+          <member>
+            <name>subscriberNumber</name>
+            <value>
+              <string>$$subscriberNumber$$</string>
+            </value>
+          </member>
+          <member>
+            <name>subscriberNumberNAI</name>
+            <value>
+              <i4>1</i4>
+            </value>
+          </member>
+        </struct>
+      </value>
+    </param>
+  </params>
+</methodCall>

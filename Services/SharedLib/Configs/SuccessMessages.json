@@ -1,0 +1,32 @@
+[
+    {
+        "CategoryId": "FBB_MONTHLY_SPECIAL",
+        "MessageTemplate": "Kindly note that your broadband account $$BENEFICIARY$$ has been successfully topped up by $$BENEFITS$$ @ GHC $$PRODUCT_AMOUNT_ONLY$$ from $$MSISDN$$",
+        "PartialContents": {  }
+    },
+    {
+        "CategoryId": "FBC_MONTHLY_SPECIAL",
+        "MessageTemplate": "Kindly note that your broadband account $$BENEFICIARY$$ has been successfully topped up by $$BENEFITS$$ @ GHC $$PRODUCT_AMOUNT_ONLY$$ from $$MSISDN$$",
+        "PartialContents": { }
+    },
+    {
+        "CategoryId": "TBB_MONTHLY_SPECIAL",
+        "MessageTemplate": "Kindly note that your broadband account $$BENEFICIARY$$ has been successfully topped up by $$BENEFITS$$ @ GHC $$PRODUCT_AMOUNT_ONLY$$ from $$MSISDN$$",
+        "PartialContents": { }
+    },
+    {
+        "CategoryId": "TBC_MONTHLY_SPECIAL",
+        "MessageTemplate": "Kindly note that your broadband account $$BENEFICIARY$$ has been successfully topped up by $$BENEFITS$$ @ GHC $$PRODUCT_AMOUNT_ONLY$$ from $$MSISDN$$",
+        "PartialContents": { }
+    },
+    {
+        "CategoryId": "FBB_UNLIMITED",
+        "MessageTemplate": "You have successfully subscribed to Fiber Business Unlimited @ $$BENEFITS$$ for $$BENEFICIARY$$",
+        "PartialContents": {}
+    },
+    {
+        "CategoryId": "FBC_UNLIMITED",
+        "MessageTemplate": "You have successfully subscribed to Fiber Customer Unlimited @ $$BENEFITS$$ for $$BENEFICIARY$$",
+        "PartialContents": {}
+    }
+]

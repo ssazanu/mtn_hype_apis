@@ -1,0 +1,10 @@
+﻿<member>
+    <name>dedicatedAccountUpdateInformation</name>
+    <value>
+        <array>
+            <data>
+                $$DA_VALUES_STRUCTURE$$
+            </data>
+        </array>
+    </value>
+</member>

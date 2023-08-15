@@ -1,0 +1,13 @@
+[
+  {
+    "Protocol": "http",
+    "IPAddress": "132.145.138.154",
+    "Port": 9111,
+    "Base64Credential": "ZGV2YXBwczpFcmljQDEyMw==",
+    "Active": true,
+    "DefaultExternalData1": "DATA_BUNDLE",
+    "DefaultExternalData2": "DATA_BUNDLE",
+    "DefaultOriginHostName": "FTTX",
+    "DefaultOriginNodeType": "FTTX"
+  }
+]

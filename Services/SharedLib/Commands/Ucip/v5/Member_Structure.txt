@@ -1,0 +1,6 @@
+﻿<member>
+    <name>$$MEMBER_NAME$$</name>
+    <value>
+        <$$VALUE_TYPE$$>$$MEMBER_VALUE$$</$$VALUE_TYPE$$>
+    </value>
+</member>

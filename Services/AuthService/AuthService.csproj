@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<ServerGarbageCollection>false</ServerGarbageCollection> 
+		<InvariantGlobalization>true</InvariantGlobalization>
+	</PropertyGroup>
+ 
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\helpers\helpers.csproj" />
+		<ProjectReference Include="..\SharedLib\SharedLib.csproj" />
+	</ItemGroup>
+
+</Project>

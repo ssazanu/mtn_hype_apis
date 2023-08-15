@@ -1,0 +1,10 @@
+﻿<member>
+    <name>offerUpdateInformationList</name>
+    <value>
+        <array>
+            <data>
+                   $$OFFER_VALUES_STRUCTURE$$  
+            </data>
+        </array>
+    </value>
+</member>
